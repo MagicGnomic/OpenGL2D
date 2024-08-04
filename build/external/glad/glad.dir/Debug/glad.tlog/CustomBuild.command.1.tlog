@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\OPENGL2D\EXTERNAL\GLAD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Desktop/openGL2D -BC:/Users/Asus/Desktop/openGL2D/build --check-stamp-file C:/Users/Asus/Desktop/openGL2D/build/external/glad/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

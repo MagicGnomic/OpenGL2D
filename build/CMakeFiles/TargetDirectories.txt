@@ -1,3 +1,8 @@
 C:/Users/Asus/Desktop/openGL2D/build/CMakeFiles/OpenGL2D.dir
 C:/Users/Asus/Desktop/openGL2D/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/Asus/Desktop/openGL2D/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Asus/Desktop/openGL2D/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Desktop/openGL2D/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Asus/Desktop/openGL2D/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Asus/Desktop/openGL2D/build/external/glad/CMakeFiles/glad.dir
+C:/Users/Asus/Desktop/openGL2D/build/external/glad/CMakeFiles/ALL_BUILD.dir
